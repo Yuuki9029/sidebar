@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: "Comic Sans Ms";
+    background-color: #00bcd6;
+    color: #00bcd6;
+}
+.container{
+    background-color: #ffffff;
+}
+.side-bar{
+    position: fixed;
+    width: 30%;
+    border-right: #00bcd6;
+    padding: 4%;
+}
+.content{
+    position: relative;
+    display: inline-block;
+    margin-left: 260px;
+    padding: 4%;
+}
